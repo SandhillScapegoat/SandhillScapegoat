@@ -40,7 +40,7 @@ Stay connected with SandhillScapegoat on social media for the latest updates, di
 
 - **Twitter**: [@sandhill63399](https://twitter.com/sandhill63399)
 - **Instagram**: [@SandhillScapegoat](link-to-instagram)
-- **Personal Github**: [Sebastian Duranona}(https://github.com/SebasDuranona)
+- **Personal Github**: [Sebastian Duranona](https://github.com/SebasDuranona)
 
 ## Contributions
 
