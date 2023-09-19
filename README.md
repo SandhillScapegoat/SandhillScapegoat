@@ -1,5 +1,7 @@
 # SandhillScapegoat - Cybersecurity & Privacy Blog
 
+![Profile Banner](Github_banner.png)
+
 Welcome to the SandhillScapegoat Cybersecurity & Privacy Blog repository. This blog is dedicated to exploring the fascinating world of cybersecurity, privacy, and identity management. Here, you'll find articles, tutorials, and insights on topics that matter in the digital realm.
 
 <!--
