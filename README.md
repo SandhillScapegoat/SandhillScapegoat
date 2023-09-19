@@ -38,8 +38,9 @@ Explore a wide range of cybersecurity and privacy topics, including:
 
 Stay connected with SandhillScapegoat on social media for the latest updates, discussions, and cybersecurity insights:
 
-- **Twitter**: [@SandhillScapegoat](link-to-twitter)
+- **Twitter**: [@sandhill63399](https://twitter.com/sandhill63399)
 - **Instagram**: [@SandhillScapegoat](link-to-instagram)
+- **Personal Github**: [Sebastian Duranona}(https://github.com/SebasDuranona)
 
 ## Contributions
 
